@@ -1,1 +1,3 @@
 # corona
+
+![screenshot](capture.png)
